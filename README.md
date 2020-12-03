@@ -16,22 +16,28 @@ User passwords: Test@1, Test@2 (respectively)
 
 Name of the Project: Student Information System
 
+
 Objectives: 
 	Maintenance of student records 
 	Searching student records 
+	
 Users Views: 
 	Administrator 
 	Student Platform 
+	
 Operating Systems: Microsoft Windows 
+
 Technologies Used: 
 	Front End: HTML and Javascript 
 	Web designing language: PHP 
 	DBMS(Back end): MySQL 
+	
 Software Requirements: 
 	PHP 5.0 
 	XAMPP Server 
 	Adobe Dreamweaver 
 	Microsoft Windows 
+	
 Hardware Requirements: 
 	Intel Pentium IV processor or equivalent or higher 
 	512 MB Ram or Higher 
